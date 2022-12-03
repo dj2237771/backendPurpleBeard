@@ -1,2 +1,0 @@
-# backendPurpleBeard
-Learning backend 
